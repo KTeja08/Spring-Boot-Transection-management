@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.jpa.show.sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.show.sql'"
+  },
+  {
+    "name": "spring.datasouse.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouse.driver-class-name'"
+  }
+]}
